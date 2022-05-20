@@ -29,7 +29,7 @@ variables:
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
 
-- task: AzureFunctionApp@1 # Add this at the end of your file
+- task: firstFunc1a@1 # Add this at the end of your file
   inputs:
     azureSubscription: greggcrawford
     appType: functionAppLinux # default is functionApp
