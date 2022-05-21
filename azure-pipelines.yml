@@ -9,7 +9,7 @@ trigger:
 variables:
 
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: '6cceb9b0-dc34-44e3-ac06-8ddafdbff0a9'
+  azureSubscription: 'Visual Studio Enterprise Subscription – MPN'
 
   # Function app name
   functionAppName: 'firstFunc1a'
